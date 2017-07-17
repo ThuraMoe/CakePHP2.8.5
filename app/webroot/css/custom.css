@@ -1,0 +1,9 @@
+textarea {
+	resize: none;
+}
+.warning {
+	color: red;
+}
+.ok {
+	color: white;
+}
